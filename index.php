@@ -1,1 +1,1 @@
-<?php header("Location: https://eda1bs9pktc1fs9ag4efebnaoj.hop.clickbank.net/"); die(); ?>
+<?php header("Location: https://www.lemoyne.edu/Academics/Colleges-Schools-Centers/College-of-Arts-Sciences/Majors-Minors/Music/Music-Lessons"); die(); ?>
